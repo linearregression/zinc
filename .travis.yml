@@ -6,6 +6,7 @@ cache:
 branches:
   only:
     - master
+    - travisCI
 language: scala
 scala:
    - 2.9.3
