@@ -6,7 +6,7 @@ cache:
 branches:
   only:
     - master
-    - travisCI
+    - wip_travisci_enhance
 language: scala
 scala:
    - 2.9.3
